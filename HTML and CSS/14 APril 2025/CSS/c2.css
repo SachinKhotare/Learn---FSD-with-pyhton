@@ -1,0 +1,23 @@
+@media screen  and (max-width:1200px)
+{
+   body
+   {
+    background-color: aquamarine;
+   } 
+   .img
+   {
+    width: 500px;
+   }
+}
+@media screen  and (max-width:600px)
+{
+   body
+   {
+    background-color:blueviolet;
+   }
+   .img
+   {
+    display: none; 
+    width: 200px;
+   } 
+}

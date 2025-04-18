@@ -1,0 +1,34 @@
+Visual Studie - Live Server Extension
+Press I and enter you get boiler plate code
+<!Doctype > use to For HTML 5 if not use it will use old version
+Red color element are called as attrbute in IDE
+HTML tag called as Root tag and Head, Body child tag
+UTF-8 - Encoding 
+Meta name = "Viewport" - 
+<b></b> - For bold letter - inline element
+<strong></strong> - inline element
+<i></i> - italic - inline element
+ <em></em> - inline element
+<br> - Empty tag
+<u> - Uderline
+<ins> - insert - underline
+<del> - use with pair with <ins> tag
+<sub>  - Inline Element
+<sup> - Inline Element
+--------------------------------
+
+Div and Span
+Div - block level element and it is emptry box
+Span - inline element 
+ 
+------------------------------
+
+LISTS
+
+create list for no of item
+1. ordered - no wise <ol> and -li list item, type element we can with A,a or 1 etc, start - we can start from any no or letter
+2.unoreder - bullet or symbol <ul> , type we can change to sqaure, cirlce, by default type is dics
+3. decsription list - 
+
+
+Nested List - We can use order list with unorder list

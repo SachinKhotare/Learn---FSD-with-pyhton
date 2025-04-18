@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>My First Web Page</title>
+
+</head>
+<body>
+       <!-- This is my comment -->	 
+	   <!-- Heading  (h1 to h6)  -->
+	   
+     <h1>Heading 1<h2>
+	 <h2>Heading 2<h2>
+	 <h3>Heading 3<h3>
+	 <h4>Heading 4</h4>
+	 <h5>Heading 5</h5>
+	 <h6>Heading 6</h6>
+	 
+	 <!-- hr - For new horizontal line-->
+	 <hr>
+	 
+	 <!-- Paragraph is block level eliment and eliminate extra space, start with new line -->
+	 <p>This is Paragraph 1</p>
+	 <p>This is Paragraph 2</p>
+	 
+	 <hr>
+	 
+	 <pre>This my paragraph        tag
+	 
+	 ------------------
+	 
+	 ....................
+	 </pre>
+
+</body>
+
+
+</html>

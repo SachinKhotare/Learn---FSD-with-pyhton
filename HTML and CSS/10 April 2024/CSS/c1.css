@@ -1,0 +1,19 @@
+body
+{
+    background-image: url(../Images/picture2.jpg);
+    background-repeat: no-repeat;
+    background-size: 40%;
+    background-position:top center;
+    background-attachment: fixed;
+}
+.box
+{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    overflow: auto; /*overflow values - hidden, scroll, visible*/
+    position: sticky; /*Fixed, sticky*/
+    top: 100px;
+    left: 1000px;
+
+}

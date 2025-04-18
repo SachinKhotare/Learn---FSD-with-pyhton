@@ -1,0 +1,14 @@
+1.Description list - We use Dl(defines the entire description list)parent tah anf dt(defines the term or name within the description list.)
+and dd(This tag describes the term or name defined by the <dt> tag.)
+2.Table Tag -<table>  -  tag defines an HTML table. tr tag (element defines a table row) and td for columns(element defines a table cell).
+for border we have to use border attribute , for bold or table heading we can use th tag(stands for a table header cell in an HTML table).
+3.colspam - it used for merge columns or cell in html we can use with th ortd tag. colspam="2".
+4.rowspam - it used for merge rows in table we can use with td tags.
+5.cellspacing - i.e -cellspacing="20px", table border and td and th space between space called as cellspacing.
+6.cellpadding="20px" - contain and td or th border between space.
+7. thead, tbody and tfoot Tag in tables
+8. FOrm tag - to create from, action attribute of form tag, label tag, input tag attribute(id, cellplaceholder, values)
+id is for front end and name for backend
+
+
+Assigment  - Create Time Table table in html today

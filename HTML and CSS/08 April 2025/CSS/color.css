@@ -1,0 +1,30 @@
+.color
+
+{
+    color: #9fd3c7;
+
+}
+body
+{
+    background-color: #142d4c;
+}
+.box
+{
+    background-color: beige;
+    width: 40%;
+    height: 120px;
+    color:red;
+    padding: 15px; /* space between paragraph and div border */
+    border: 20px dotted #9fd3c7; /*border style - solid, double, dotted, thick , thin */
+    margin: 40px 40px 40px 40px;
+}
+
+#button
+{
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    padding: 5px 2px 15px 5px; /* first for top and sencond for right go, bottom, left - clock wise (TRBL), (T(LR)B), (TB, RL)*/
+    border: 5px double red;
+    
+}

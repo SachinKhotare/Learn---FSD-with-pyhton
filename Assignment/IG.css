@@ -1,0 +1,30 @@
+.box
+{
+    display: inline-block;
+    width: 150px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid whitesmoke; 
+    box-shadow: 5px 5px 5px 2px rgb(186, 185, 185); 
+    background-image: url(picture2.jpg);
+    background-repeat:no-repeat; 
+    background-size:contain;
+    background-position: center;
+    
+    
+}
+.title
+{
+    
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 10px 10px 5px rgb(227, 223, 223);
+    text-decoration: 2px underline white;
+}
+body
+{
+    background-image: url(BGN.jpg);
+    
+    background-size: 50%;
+
+}

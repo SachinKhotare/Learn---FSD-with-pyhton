@@ -1,0 +1,8 @@
+body
+{
+    background-image: url(../Images/picture2.jpg);
+    background-repeat: no-repeat; /* repeat-x, repeat-y, no-repeat*/
+    background-size: 45%;
+    background-position: left;
+
+}

@@ -1,0 +1,20 @@
+/* CLass Selector*/
+.ST
+{
+ background-color: cornflowerblue;
+    
+}
+/* ID Selector*/
+#para1
+{
+    color:red;
+}
+
+.heading
+{
+    background-color: aqua;
+}
+#heading1
+{
+    color:red
+}

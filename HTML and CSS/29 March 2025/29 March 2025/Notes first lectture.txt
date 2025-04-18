@@ -1,0 +1,21 @@
+Html has head and body  -head for metadata and body for content.
+<head></head><body>
+in Html we used tags
+1.A favicon of website
+2.Heading occupied full width in web page by default - it will come in bold letter by defualt
+3.they called block level eliment.
+4.it will always start with new line and occupiy full width of web pages - block element.
+5.total heading start with h1 till h6 in thml.
+
+For line we used hotizontal ruler <hr>
+
+For paragraphs we use tag <p></p>
+Pragraph tag always eliminate extra space and enter also. by defualt - Also Block level eliment always start with new line and occpuy 100 width of web pages
+
+comment:-it will inform or information about your code-For developer information. we use syntax<!-- -->
+
+If you want space in paragraph we use pre tag <pre></pre> it silimar to paragraph tag and use mono text font 
+
+
+
+6.Inline Eliment in future

@@ -1,0 +1,25 @@
+.box
+{
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+#box1
+{
+    background-color:darkmagenta;
+    left: 300px;
+    top: 50px;
+    top: 100px;
+  
+}
+#box2
+{   
+    background-color: aquamarine;
+    left: 100px;
+    bottom: 50px;
+}
+#box3
+{
+    background-color: tomato;
+    bottom: 150px;
+}

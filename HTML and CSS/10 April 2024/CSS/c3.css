@@ -1,0 +1,36 @@
+.para
+{
+    font-size:30px;
+}
+.para::first-letter
+{
+    color: red;
+    font-size: 40px;
+}
+.para::first-line
+{
+    text-decoration: 2px overline goldenrod;
+}
+
+/*'Desendent Selector - space', 'child selector - >' */
+.container>h6
+{
+    background-color: aqua;
+}
+/*sibling selector - + , ~  */
+.container ~ h2
+{
+    background-color: tomato;
+}
+.container > :nth-child(even)
+{
+    color:violet;
+}
+.container >:first-child
+{
+    color: chartreuse;
+}
+#para1
+{
+
+}
